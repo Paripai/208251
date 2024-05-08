@@ -1,0 +1,21 @@
+﻿Obs,Age,Gender,Status,Education,Smoke,Income,Life Satisfaction,Job Satisfaction
+1,33,Male,Married,Undergrad,No,15050,3,3
+2,27,Male,Married,Undergrad,Yes,20600,2,4
+3,22,Female,Single,Master ,Yes,15200,4,1
+4,34,Male,Married,Undergrad,No,22500,3,4
+5,24,Female,Single,High school,No,30400,4,3
+6,37,Female,Divorced,Undergrad,No,33850,3,3
+7,25,Female,Single,Master ,Yes,15100,2,3
+8,31,Male,Married,Undergrad,Yes,34900,1,2
+9,40,Male,Married,Undergrad,No,23200,1,3
+10,26,Male,Single,Secondary school,Yes,32000,1,3
+11,41,Female,Married,High school,Yes,18650,2,1
+12,38,Male,Married,High school,No,28570,2,3
+13,28,Female,Single,Undergrad,No,26000,2,4
+14,44,Male,Divorced,High school,Yes,39560,3,2
+15,21,Female,Married,Undergrad,Yes,18000,4,3
+16,25,Male,Single,Undergrad,No,13500,2,1
+17,30,Female,Single,Secondary school,No,22350,1,1
+18,42,Male,Married,Undergrad,Yes,35000,3,3
+19,43,Female,Married,Undergrad,No,28000,4,3
+20,20,Male,Single,Master ,No,15000,3,4

@@ -1,0 +1,31 @@
+Customer,Method of payment,Items perchased,Discount amount,Sales,Gender,Marital status,Age
+1,Cash,1,0,39.5,male,single,32
+2,Cash,1,25,102.4,female,married,36
+3,Cash,1,0,22.5,male,divorced,32
+4,Cash,5,12,100.4,male,widowed,28
+5,Cash,2,0,54,male,single,34
+6,Cash,1,0,39.5,female,single,44
+7,Cash,9,11,253,male,single,30
+8,Cash,3,34,287.5,female,married,52
+9,Cash,4,18,47,female,married,30
+10,Debit card,4,4,175,female,single,34
+11,Debit card,9,6,80,female,single,31
+12,Debit card,17,20,25,female,single,56
+13,Debit card,17,45,147,male,single,68
+14,Debit card,9,1,78,male,single,46
+15,Debit card,9,6,142,male,single,46
+16,Debit card,5,35,89,female,single,58
+17,Debit card,6,46,77,female,divorced,41
+18,Debit card,10,37,175,female,single,54
+19,Debit card,2,48,297,female,single,23
+20,Debit card,11,27,149,female,divorced,56
+21,Credit card,7,21,16,male,married,20
+22,Credit card,10,29,265,female,married,37
+23,Credit card,19,44,259,female,single,51
+24,Credit card,7,14,19,male,married,32
+25,Credit card,2,39,57,male,single,45
+26,Credit card,9,42,39,female,single,39
+27,Credit card,20,49,150,female,married,45
+28,Credit card,11,5,311,female,married,64
+29,Credit card,13,40,325,female,widowed,22
+30,Credit card,15,14,357,female,married,22
