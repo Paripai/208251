@@ -1,4 +1,4 @@
-Customer,Method of payment,Items perchased,Discount amount,Sales,Gender,Marital status,Age
+Customer,MethodofPayment,Items perchased,Discount amount,Sales,Gender,Marital status,Age
 1,Cash,1,0,39.5,male,single,32
 2,Cash,1,25,102.4,female,married,36
 3,Cash,1,0,22.5,male,divorced,32
